@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP W25Q128JVSIM
+D Winbond, W25Q128JVSIM
+K
+F http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf
+$ENDCMP
+#
+$CMP AP2112M-3.3TRG1
+D LDO Voltage Regulators LDO CMOS HiCurr
+K
+F https://www.diodes.com/assets/Datasheets/AP2112.pdf
+$ENDCMP
+#
+$CMP MCP73831-5ACI_MC
+D Battery Management Li-Ion/Li-Poly Charg Mgnt 4.5V Vreg out
+K
+F https://componentsearchengine.com/Datasheets/1/MCP73831-5ACI_MC.pdf
+$ENDCMP
+#
+$CMP SX1261IMLTRT
+D RF Transceiver LoRa, Low Power sub- GHz RF Transceiver
+K
+F https://componentsearchengine.com/Datasheets/1/SX1261IMLTRT.pdf
+$ENDCMP
+#
+$CMP USB4110-GF-A
+D CONN USB 2.0 TYPE-C R/A SMT
+K
+F https://gct.co/files/drawings/usb4110.pdf
+$ENDCMP
+#
+$CMP AS169-73LF
+D SKYWORKS SOLUTIONS - AS169-73LF - IC, SWITCH, RF, SPDT, 0.3-2.5GHZ
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-2/DSA-21833.pdf
+$ENDCMP
+#
+$CMP FDN304PZ
+D FDN304PZ, P-channel MOSFET Transistor 2.4 A 20 V, 3-Pin SuperSOT
+K
+F 
+$ENDCMP
+#
+$CMP PMEG3050EP,115
+D NXP PMEG3050EP,115 SMT Schottky Diode, 30V 5A, 2-Pin SOD-128
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/fa882cf4aa6eed6383790f96e9182165.pdf
+$ENDCMP
+#
+$CMP 53261-0271
+D 1.25mm Pitch, PicoBlade PCB Header, Single Row, Right-Angle, Surface Mount, Tin (Sn) Plating, Friction Lock,  Circuits, Tape and Reel
+K
+F https://www.molex.com/pdm_docs/sd/532610271_sd.pdf
+$ENDCMP
+#
+$CMP 434123025826
+D TACT SWITCH 4.2X3.2MM VERTICAL T
+K
+F https://www.we-online.com/catalog/datasheet/434123025826.pdf
+$ENDCMP
+#
+$CMP AS213-92LF
+D SKYWORKS SOLUTIONS - AS213-92LF - IC, SWITCH, RF, SPDT, 0.1-3.0GHZ
+K
+F https://componentsearchengine.com/Datasheets/2/AS213-92LF.pdf
+$ENDCMP
+#
+#End Doc Library
